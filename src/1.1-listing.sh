@@ -1,8 +1,5 @@
 # Assignment 1
-# List files and directories in the current directory.
-# Display them in long format.
-# Then list them in reverse order.
+#Task: List files and directories in the current directory
+#Task: Display files and directories in long format
+#Task: List files and directories in reverse order
 
-ls  
-ls -l  
-ls -lr  
